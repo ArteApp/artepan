@@ -1,0 +1,14 @@
+{
+  "name": "ArtePan",
+  "short_name": "ArtePan",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "icons": [{
+    "src": "assets/imgs/logo_only.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "background_color": "#ed3237",
+  "theme_color": "#ed3237",
+  "gcm_sender_id": "730190443565"
+}
