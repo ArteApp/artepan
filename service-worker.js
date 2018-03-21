@@ -6,7 +6,7 @@ importScripts("//cdn.jsdelivr.net/npm/pouchdb@6.4.3/dist/pouchdb.min.js");
 
 
 self.toolbox.options.cache = {
-  name: 'artepan-cache-201803181814'
+  name: 'artepan-cache-201803212042'
 };
 
 // pre-cache our key assets
